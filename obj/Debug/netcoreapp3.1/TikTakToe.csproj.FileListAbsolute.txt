@@ -1,0 +1,12 @@
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/bin/Debug/netcoreapp3.1/TikTakToe.deps.json
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/bin/Debug/netcoreapp3.1/TikTakToe.runtimeconfig.json
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/bin/Debug/netcoreapp3.1/TikTakToe.runtimeconfig.dev.json
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/bin/Debug/netcoreapp3.1/TikTakToe.dll
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/bin/Debug/netcoreapp3.1/TikTakToe.pdb
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.csprojAssemblyReference.cache
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.AssemblyInfoInputs.cache
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.AssemblyInfo.cs
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.dll
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.pdb
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.csproj.CoreCompileInputs.cache
+/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/obj/Debug/netcoreapp3.1/TikTakToe.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPrKZq3ZNabFWq0CQAe3IBpTcGwZgT4LdG5iUlFQPIxDqdSF+J+JFCpwmVcrQoXC3HoHJOtAsRPO/jsy58PP5A==",
+  "success": true,
+  "projectFilePath": "/Users/user/Github/CSharp_Projects/Udemy/Section-7_Arrays_List/TikTakToe/TikTakToe.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
